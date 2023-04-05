@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Shared content -->
+  <RulePackDef>
+    <defName>DeityTypeMakerKTDryadG</defName>
+    <include>
+      <li>GlobalUtility</li>
+    </include>
+    <rulePack>
+      <rulesStrings>
+        <li>r_deityType-&gt;[god] of [memeConcept]</li>
+        <li>god-&gt;Master</li>
+        <li>god-&gt;Elder</li>
+        <li>god-&gt;Demigod</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  <!-- Culture-specific content -->
+  <RulePackDef>
+    <defName>DeityTypeMakerKTDryad</defName>
+    <include>
+      <li>DeityTypeMakerKTDryadG</li>
+    </include>
+  </RulePackDef>
+</Defs>

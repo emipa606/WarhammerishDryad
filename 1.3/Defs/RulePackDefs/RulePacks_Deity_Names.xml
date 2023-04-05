@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Culture-specific content -->
+  <RulePackDef>
+    <defName>NamerDeityKTDryad</defName>
+    <include>
+      <li MayRequire="Ludeon.RimWorld.Ideology">NamerDeityGlobal</li>
+    </include>
+    <rulePack>
+      <rulesStrings>
+        <li>name-&gt;[syl]</li>
+        <li>syl-&gt;Drycha</li>
+        <li>syl-&gt;Briarmaven of Woe</li>
+        <li>syl-&gt;Addaivoch</li>
+        <li>syl-&gt;Tree of Woe</li>
+        <li>syl-&gt;Coeddil</li>
+        <li>syl-&gt;Briarmaven</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+</Defs>
