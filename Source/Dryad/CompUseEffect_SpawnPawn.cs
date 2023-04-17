@@ -22,7 +22,8 @@ public class CompUseEffect_SpawnPawn : CompUseEffect
         GenPlace.TryPlaceThing(pawn, parent.Position, parent.Map, ThingPlaceMode.Near);
         if (SpawnerProps.sendMessage)
         {
-            Messages.Message("Dryad awakes".Translate(pawn.Name.ToStringFull), new GlobalTargetInfo(pawn),
+            Messages.Message(SpawnerProps.pawnSpawnedStringKey.Translate(pawn.Name.ToStringFull),
+                new GlobalTargetInfo(pawn),
                 MessageTypeDefOf.NeutralEvent);
         }
     }

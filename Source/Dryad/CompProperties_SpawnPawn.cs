@@ -10,7 +10,7 @@ public class CompProperties_SpawnPawn : CompProperties_UseEffect
     public FactionDef forcedFaction;
     public PawnKindDef pawnKind;
 
-    public string pawnSpawnedStringKey = "Dryad awakes";
+    public string pawnSpawnedStringKey = "Warhammerish.Awaken";
 
     public bool sendMessage = true;
 

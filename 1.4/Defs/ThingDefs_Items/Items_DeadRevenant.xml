@@ -53,9 +53,7 @@
         <compClass>Dryad.CompUseEffect_SpawnPawn</compClass>
         <pawnKind>DryadDeadRevenantWild</pawnKind>
       </li>
-      <li Class="CompProperties_UseEffect">
-        <compClass>CompUseEffect_DestroySelf</compClass>
-      </li>
+      <li Class="CompProperties_UseEffectDestroySelf" />
     </comps>
   </ThingDef>
 </Defs>
