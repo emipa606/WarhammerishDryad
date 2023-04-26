@@ -121,9 +121,7 @@
         <compClass>Dryad.CompUseEffect_SpawnPawn</compClass>
         <pawnKind>DryadGood</pawnKind>
       </li>
-      <li Class="CompProperties_UseEffect">
-        <compClass>CompUseEffect_DestroySelf</compClass>
-      </li>
+      <li Class="CompProperties_UseEffectDestroySelf" />
     </comps>
   </ThingDef>
   <ThingDef ParentName="ResourceBase">
@@ -179,9 +177,7 @@
         <compClass>Dryad.CompUseEffect_SpawnPawn</compClass>
         <pawnKind>DryadGood</pawnKind>
       </li>
-      <li Class="CompProperties_UseEffect">
-        <compClass>CompUseEffect_DestroySelf</compClass>
-      </li>
+      <li Class="CompProperties_UseEffectDestroySelf" />
     </comps>
   </ThingDef>
 </Defs>
