@@ -2,7 +2,7 @@
 <Patch>
   <Operation Class="PatchOperationFindMod">
     <mods>
-      <li>Kompadt.Warhammer.Fimir</li>
+      <li>Mlie.WarhammerFimir</li>
     </mods>
     <match Class="PatchOperationSequence">
       <success>Always</success>
