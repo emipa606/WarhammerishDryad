@@ -878,6 +878,7 @@
     <label>embedded seed</label>
     <labelNoun>embedded seed</labelNoun>
     <description>A seed poking the brain.</description>
+    <countsAsAddedPartOrImplant>false</countsAsAddedPartOrImplant>
     <stages>
       <li>
         <partEfficiencyOffset>-0.05</partEfficiencyOffset>
@@ -938,6 +939,7 @@
     <label>embedded cluster</label>
     <labelNoun>embedded cluster</labelNoun>
     <description>Whole back stuffed with seeds.</description>
+    <countsAsAddedPartOrImplant>false</countsAsAddedPartOrImplant>
     <stages>
       <li>
         <partEfficiencyOffset>-0.05</partEfficiencyOffset>

@@ -39,6 +39,7 @@
     <label>embedded seed</label>
     <labelNoun>embedded seed</labelNoun>
     <description>A seed poking the brain. Unknown source, might prove detrimental.</description>
+    <countsAsAddedPartOrImplant>false</countsAsAddedPartOrImplant>
     <stages>
       <li>
         <partEfficiencyOffset>-0.05</partEfficiencyOffset>
@@ -96,6 +97,7 @@
     <label>embedded seed</label>
     <labelNoun>embedded seed</labelNoun>
     <description>A seed poking the brain. Unknown source, might prove detrimental.</description>
+    <countsAsAddedPartOrImplant>false</countsAsAddedPartOrImplant>
     <stages>
       <li>
         <partEfficiencyOffset>-0.05</partEfficiencyOffset>
@@ -153,6 +155,7 @@
     <label>embedded cluster</label>
     <labelNoun>embedded cluster</labelNoun>
     <description>Whole back stuffed with seeds, might prove detrimental.</description>
+    <countsAsAddedPartOrImplant>false</countsAsAddedPartOrImplant>
     <stages>
       <li>
         <partEfficiencyOffset>-0.05</partEfficiencyOffset>

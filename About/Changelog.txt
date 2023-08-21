@@ -1,5 +1,8 @@
 # Changelog for WarhammerishDryad
 
+1.4.4 - Made the embedded seeds not count as artificial implants
+
+
 1.4.3 - Updated the mayrequire-tags to the continued mod-versions
 
 
