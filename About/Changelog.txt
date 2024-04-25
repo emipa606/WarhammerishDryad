@@ -1,5 +1,8 @@
 # Changelog for WarhammerishDryad
 
+1.4.5 - Last update, added end-of-life message
+
+
 1.4.4 - Made the embedded seeds not count as artificial implants
 
 
